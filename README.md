@@ -6,8 +6,6 @@
 	🚧  Back End do TikJob 🚀 Em processo de finalização...  🚧
 </h4>
 
-![BADGE_LICENSE]
-
 Tabela de conteúdos
 =================
 <!--ts-->
