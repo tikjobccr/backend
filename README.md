@@ -1,4 +1,4 @@
-# backend do TikJob
+# Backend do TikJob
 
 ## Backend do Projeto elaborado para o Hackathon CCR 2021
 
